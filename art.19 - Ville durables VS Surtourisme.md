@@ -1,7 +1,7 @@
 ---
 title: Villes durables vs surtourisme
 description: Pourquoi certaines destinations écolos deviennent invivables malgré leurs labels durables.
-keywords: villes durables, surtourisme, tourisme responsable, destinations alternatives
+keywords: villes durables, surtourisme, tourisme responsable, destinations alternatives, décarbonation
 author: Climat.travel
 category: Tourisme durable
 robots: index, follow
